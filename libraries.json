@@ -1316,6 +1316,12 @@
       "description": "Yii2 is a fast, secure, and efficient PHP framework.",
       "image": "https://avatars.githubusercontent.com/u/993323"
     },
+    "Yii3": {
+      "imports": ["Yiisoft\\Yii\\", "Yiisoft\\"],
+      "technologies": ["Web Development", "PHP Frameworks", "MVC"],
+      "description": "Yii3 is a fast, secure, and efficient PHP framework.",
+      "image": "https://avatars.githubusercontent.com/u/993323"
+    },
     "Zend Framework 1": {
       "imports": ["Zend_"],
       "technologies": ["Web Development", "PHP Frameworks", "MVC"],
